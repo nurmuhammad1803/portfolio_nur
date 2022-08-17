@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.3s;
+}
+/*classes*/
+.df {
+  display: flex;
+}
+.db {
+  display: block;
+}
+.aic {
+  align-items: center;
+}
+.jcc {
+  justify-content: center;
+}
+.jcsb {
+  justify-content: space-between;
+}
+.jca {
+  justify-content: space-around;
+}
+.jcs {
+  justify-content: start;
+}
+.fdrc {
+  flex-direction: column;
+}
+.w-auto {
+  width: auto;
+}
+.m0 {
+  margin: 0;
+}
+.p0 {
+  padding: 0;
+}
+.h100 {
+  height: 100vh;
+}
